@@ -51,18 +51,3 @@ and build it:
 ```
 make build
 ```
-
-that's all.
-
-# Docker Image Config
-
-## Port Listening in Container
-
-The port listening in container is ```2022```
-
-## mount points
-
-The mount points are:
-
-- /opt/kozmo/database 
-- /opt/kozmo/drive 
